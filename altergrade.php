@@ -1,6 +1,5 @@
 <?php
 //Princewill Onwubu Backend - Beta 4/3 Professor submit a student's corrected grade
-$conn=mysqli_connect("sql1.njit.edu","pio3","yoAexDSq","pio3");
 $catch=file_get_contents('php://input');
 $_POST=json_decode($catch,true);
 $date=date('m/d/Y');

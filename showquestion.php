@@ -1,6 +1,5 @@
 <?php
 //Princewill Onwubu Backend - Beta 3/6 PResenting the questions via Json Array upstream
-$conn=mysqli_connect("sql1.njit.edu","pio3","yoAexDSq","pio3");
 $res=array();
 //questionName,questionInput,difficulty,questionKey
 $query=mysqli_query($conn,"SELECT * FROM db_questions");

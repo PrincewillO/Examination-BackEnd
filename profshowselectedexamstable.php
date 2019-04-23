@@ -1,6 +1,5 @@
 <?php
 //Princewill Onwubu Backend - Beta 3/30 Presenting the exams via Json Array upstream
-$conn=mysqli_connect("sql1.njit.edu","pio3","yoAexDSq","pio3");
 $catch=file_get_contents('php://input');
 $_POST=json_decode($catch,true);
 $res=array();

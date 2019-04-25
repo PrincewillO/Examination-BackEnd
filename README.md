@@ -3,12 +3,12 @@ Back End Code for Examination Website with FRONT-MIDDLE-BACK architecture
 
 # 
 
-FRONT - Chikaodi Adibemma
+FRONT - Chikaodi 
 
-FRONT - Moises Hernandez
+FRONT - Moises https://github.com/Mohdez
 
-FRONT - Rimon
+FRONT - Rimon 
 
-MIDDLE - Andres
+MIDDLE - Andres https://github.com/Andres-CS
 
 BACK - Princewill Onwubu (Me)
